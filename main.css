@@ -1,0 +1,11 @@
+body{text-align: center;justify-content: center;align-items: center;background:linear-gradient(to left,white,blue,black);}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;font-size: 30px;text-decoration: underline;text-shadow: 6px;color: white;}
+h2{color: white;font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: inherit;text-shadow: 6px;}
+p{font-family: 'Times New Roman', Times, serif;font-size: 15px;font-style: unset;text-shadow: 6px;color: black;}
+dl{padding: 5px;}
+dt{font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: inherit;text-align: left;padding: 5px;text-shadow: 6px;}
+dd{font-size: 15px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-style: inherit;text-shadow: 6px;text-align: left;padding: 5px;}
+summary{width: 230px;text-shadow: 6px;border-radius: 10px 10px;margin: auto;}
+thead{font-size: 20px;font-family: Arial, Helvetica, sans-serif;font-style: oblique;text-align: left;text-shadow: 6px;}
+tbody{font-size: 15px;font-family: 'Times New Roman', Times, serif;font-style: inherit;text-shadow: 6px;text-align: left;}
+tfoot{font-size: 20px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-style: initial;text-shadow: 6px;text-align: left;}
