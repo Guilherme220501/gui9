@@ -1,4 +1,4 @@
-body{text-align: center;justify-content: center;align-items: center;background:linear-gradient(to left,white,blue,black);}
+body{text-align: center;justify-content: center;align-items: center;background:linear-gradient(to left,white,rgb(0, 0, 0),white);}
 h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;font-size: 30px;text-decoration: underline;text-shadow: 6px;color: white;}
 h2{color: white;font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: inherit;text-shadow: 6px;}
 p{font-family: 'Times New Roman', Times, serif;font-size: 15px;font-style: unset;text-shadow: 6px;color: rgb(255, 255, 255);}
